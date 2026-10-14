@@ -18,6 +18,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,4 +28,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
