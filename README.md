@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2235-add-two-integers](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3895-count-digit-appearances](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0039-combination-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0136-single-number) |
+| [3895-count-digit-appearances](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 ## Backtracking
 |  |
 | ------- |
