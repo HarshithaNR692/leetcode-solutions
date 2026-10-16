@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0136-single-number) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
