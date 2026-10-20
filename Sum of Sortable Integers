@@ -1,0 +1,60 @@
+class Solution {
+    public int sortableIntegers(int[] nums) {
+        int n = nums.length;
+        int totalSum = 0;
+
+        List<Integer> divisors = new ArrayList<>();
+        for (int i = 1; i * i <= n; i++) {
+            if (n % i == 0) {
+                divisors.add(i);
+                if (i * i != n) {
+                    divisors.add(n / i);
+                }
+            }
+        }
+
+        for (int k : divisors) {
+            if (isSortable(nums, n, k)) {
+                totalSum += k;
+            }
+        }
+
+        return totalSum;
+    }
+
+    private boolean isSortable(int[] nums, int n, int k) {
+        int numBlocks = n / k;
+        int prevBlockMax = Integer.MIN_VALUE;
+
+        for (int b = 0; b < numBlocks; b++) {
+            int start = b * k;
+            int end = start + k;
+
+            int drops = 0;
+            int blockMin = Integer.MAX_VALUE;
+            int blockMax = Integer.MIN_VALUE;
+
+            for (int i = start; i < end; i++) {
+                blockMin = Math.min(blockMin, nums[i]);
+                blockMax = Math.max(blockMax, nums[i]);
+
+                int nextIdx = start + (i - start + 1) % k;
+                if (nums[i] > nums[nextIdx]) {
+                    drops++;
+                }
+            }
+
+            if (drops > 1) {
+                return false;
+            }
+
+            if (blockMin < prevBlockMax) {
+                return false;
+            }
+
+            prevBlockMax = blockMax;
+        }
+
+        return true;
+    }
+}
