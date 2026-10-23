@@ -10,6 +10,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3895-count-digit-appearances](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -52,5 +54,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshithaNR692/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
